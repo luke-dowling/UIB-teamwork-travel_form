@@ -1,4 +1,4 @@
-# Simple form
+# Travel Form
 
 * The form should have 2 fields, _from_ and _to_
 * When the user clicks on the labels, the corresponding field gets focus
